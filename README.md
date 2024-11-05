@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mengyu-doris-pu-4b0554243/)
 **LinkedIn**: Academic background and internship experience in data analytics. 🎓💼
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/你的Instagram用户名/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/doris_leii/)
 **Instagram**: Sharing moments of my daily life and passions beyond data. 📸🌟
 
 ---
